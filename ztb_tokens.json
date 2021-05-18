@@ -1,0 +1,381 @@
+{
+  "name": "Chef Nomi Choices",
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "version": {
+    "major": 4,
+    "minor": 7,
+    "patch": 0
+  },
+  "logoURI": "/nomi.png",
+  "keywords": ["nomichef", "default", "list"],
+  "tokens": [
+    {
+      "address": "0x5562ced5cdD372ac0E1AEDab9E3525a8BC195e5E",
+      "chainId": 20212,
+      "name": "WZTB",
+      "symbol": "WZTB",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZTB.png"
+    },
+    {
+      "address": "0xAa8a06170859495eDA65dF71F92d629aFf7F648E",
+      "chainId": 20212,
+      "name": "BONBON",
+      "symbol": "BONBON",
+      "decimals": 18,
+      "logoURI": "/images/tokens/BONBON.jpg"
+    },
+    {
+      "address": "0x74Cfe5539362dC9C58DcF87794679Dd0E070C6e1",
+      "chainId": 20212,
+      "name": "ZUSD",
+      "symbol": "ZUSD",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZUSD.png"
+    },
+    {
+      "address": "0xf679487BD9FF6b160389397fCeF42e47109801d1",
+      "chainId": 20212,
+      "name": "ZBTC",
+      "symbol": "ZBTC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZBTC.png"
+    },
+    {
+      "address": "0x4507218DeB8a30D4a1dFA6c4719b4b2ee9fBf30e",
+      "chainId": 20212,
+      "name": "ZETH",
+      "symbol": "ZETH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZETH.png"
+    },
+    {
+      "address": "0xc3CB37113F3Ebd0Ef6af8D5bBE9820715F5054AB",
+      "chainId": 20212,
+      "name": "PIS",
+      "symbol": "PIS",
+      "decimals": 18,
+      "logoURI": "/images/tokens/PIS.png"
+    },
+    {
+      "address": "0x28AF36361a5f8B8DF68244Ef8d87A893BF0e59Ec",
+      "chainId": 20212,
+      "name": "PUSD",
+      "symbol": "PUSD",
+      "decimals": 6,
+      "logoURI": "/images/tokens/PUSD.png"
+    },
+    {
+      "address": "0xa661300F910830C58b2F9f86A2509AeE1787EC2e",
+      "chainId": 20212,
+      "name": "TF",
+      "symbol": "TF",
+      "decimals": 18,
+      "logoURI": "/images/tokens/TF.jpg"
+    },
+    {
+      "address": "0xd27ADa619Bc750f0c8e8224BEdc67a56a383f069",
+      "chainId": 20212,
+      "name": "PIG",
+      "symbol": "PIG",
+      "decimals": 18,
+      "logoURI": "/images/tokens/PIG.jpg"
+    },
+    {
+      "address": "0x122bFD0702F8B06901bE5ad72cf7e61ad47548dE",
+      "chainId": 20212,
+      "name": "PIGS",
+      "symbol": "PIGS",
+      "decimals": 18,
+      "logoURI": "/images/tokens/PIGS.jpg"
+    },
+    {
+      "address": "0x084D5add894DCF2D92A20bDc2a0396C13E8e0E30",
+      "chainId": 20212,
+      "name": "APP",
+      "symbol": "APP",
+      "decimals": 18,
+      "logoURI": "/images/tokens/APP.png"
+    },
+    {
+      "address": "0x251163b0d0b914fdc75b3ee4dde565610315b244",
+      "chainId": 20212,
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "/images/tokens/DUSD.jpg"
+    },
+    {
+      "address": "0x29d47cde341365495a9fa4675ab6458e2448f6a6",
+      "chainId": 20212,
+      "name": "DED",
+      "symbol": "DED",
+      "decimals": 18,
+      "logoURI": "/images/tokens/DED.png"
+    },
+    {
+      "address": "0x48D9ec594919F081b18Acb3096d7C0c41C60494A",
+      "chainId": 20212,
+      "name": "TEA",
+      "symbol": "TEA",
+      "decimals": 18,
+      "logoURI": "/images/tokens/tea.png"
+    },
+    {
+      "address": "0x75b1bb112e7198737d902cfef388fe9f062651ef",
+      "chainId": 20212,
+      "name": "ZGKC",
+      "symbol": "ZGKC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZGKC.jpg"
+    },
+    {
+      "address": "0xDB8bCf8277FA8cF9a9ECD2F46D079D80F260EE64",
+      "chainId": 20212,
+      "name": "ZBNB",
+      "symbol": "ZBNB",
+      "decimals": 18,
+      "logoURI": "/images/tokens/BNB.jpg"
+    },
+    {
+      "address": "0x842D2DAeF5f815b2f52E256Fb4298131A3315852",
+      "chainId": 20212,
+      "name": "ZHT",
+      "symbol": "ZHT",
+      "decimals": 18,
+      "logoURI": "/images/tokens/HT.png"
+    },
+    {
+      "address": "0xe2Ea2A86Be00ED77035FC35c42332E26AFdc9332",
+      "chainId": 20212,
+      "name": "ZOKB",
+      "symbol": "ZOKB",
+      "decimals": 18,
+      "logoURI": "/images/tokens/OKB.jpg"
+    },
+    {
+      "address": "0x17a339a33C6D6D0AAEFbcBbdf77f2ef640821424",
+      "chainId": 20212,
+      "name": "ZSUSHI",
+      "symbol": "ZSUSHI",
+      "decimals": 18,
+      "logoURI": "/images/tokens/SUSHI.jpg"
+    },
+    {
+      "address": "0x3ac9aed02ca33Aa4d37f4b8A3c04E4B920F5311e",
+      "chainId": 20212,
+      "name": "ZUNI",
+      "symbol": "ZUNI",
+      "decimals": 18,
+      "logoURI": "/images/tokens/UNI.png"
+    },
+    {
+      "address": "0xF521252f70dfce44D54e9917e26a2eb7C52Ffd6f",
+      "chainId": 20212,
+      "name": "ZABEL",
+      "symbol": "ZABEL",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ABEL.jpg"
+    },
+    {
+      "address": "0x3EB7836f2ec7EFFE1587f5E3391b331BD24a1847",
+      "chainId": 20212,
+      "name": "ZSUPT",
+      "symbol": "ZSUPT",
+      "decimals": 18,
+      "logoURI": "/images/tokens/SUPT.jpg"
+    },
+    {
+      "address": "0x921960c20376bad214Da485f28F3F2D9096Eb97b",
+      "chainId": 20212,
+      "name": "ZSERO",
+      "symbol": "ZSERO",
+      "decimals": 18,
+      "logoURI": "/images/tokens/SERO.jpg"
+    },
+    {
+      "address": "0xA06781762aD2AF5B180F289C453b9871a4DBd48f",
+      "chainId": 20212,
+      "name": "ZVDS",
+      "symbol": "ZVDS",
+      "decimals": 18,
+      "logoURI": "/images/tokens/VDS.jpg"
+    },
+    {
+      "address": "0x673Bd4A9812e77030dDb8f35EBE74A8AeE90422b",
+      "chainId": 20212,
+      "name": "ZODIN",
+      "symbol": "ZODIN",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ODIN.jpg"
+    },
+    {
+      "address": "0x8FD47C6394002A2bc2D056E2Ac412C4733713EeD",
+      "chainId": 20212,
+      "name": "ZSIPC",
+      "symbol": "ZSIPC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/SIPC.jpg"
+    },
+    {
+      "address": "0x4B4155908089077BCd3D29a966ECe560Aed9d4B5",
+      "chainId": 20212,
+      "name": "NANA",
+      "symbol": "NANA",
+      "decimals": 18,
+      "logoURI": "/images/tokens/banana.png"
+    },
+    {
+      "address": "0x7bC99A6690f9ED796b39547639cA83D0E1D18f03",
+      "chainId": 20212,
+      "name": "CFX",
+      "symbol": "CFX",
+      "decimals": 18,
+      "logoURI": "/images/tokens/CFX.png"
+    },
+    {
+      "address": "0x48d298a5596Bc6bA079fFf3B37418552225C9c04",
+      "chainId": 20212,
+      "name": "TRX",
+      "symbol": "TRX",
+      "decimals": 18,
+      "logoURI": "/images/tokens/TRX.png"
+    },
+    {
+      "address": "0x0a1D3a7F019BE4dBDefc429d0ee3Ee490eE6c688",
+      "chainId": 20212,
+      "name": "BTT",
+      "symbol": "BTT",
+      "decimals": 18,
+      "logoURI": "/images/tokens/BTT.png"
+    },
+    {
+      "address": "0xAE36699252bc4712d2d41650B286D199577B4040",
+      "chainId": 20212,
+      "name": "LTC",
+      "symbol": "LTC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/LTC.png"
+    },
+    {
+      "address": "0x803a33d6A1335c42e4D5035FaA6437285d694ECf",
+      "chainId": 20212,
+      "name": "BCH",
+      "symbol": "BCH",
+      "decimals": 18,
+      "logoURI": "/images/tokens/BCH.png"
+    },
+    {
+      "address": "0x8744d01E61Adf84cd57751ce279b8c247Cc8d4cC",
+      "chainId": 20212,
+      "name": "EOS",
+      "symbol": "EOS",
+      "decimals": 18,
+      "logoURI": "/images/tokens/EOS.png"
+    },
+    {
+      "address": "0x48b6E20db745aBeCB63C9809dc7EebB9fA607889",
+      "chainId": 20212,
+      "name": "XRP",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "/images/tokens/XRP.png"
+    },
+    {
+      "address": "0xff43167b4b8B0B5B579856D362434697A996a40b",
+      "chainId": 20212,
+      "name": "ETC",
+      "symbol": "ETC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ETC.png"
+    },
+    {
+      "address": "0x73392E5ba0919849E1e1F0398fA81368A74Bd6C7",
+      "chainId": 20212,
+      "name": "FIL",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": "/images/tokens/FIL.png"
+    },
+    {
+      "address": "0x6A3798d5C065C201ABd536C8737b22C4746379A2",
+      "chainId": 20212,
+      "name": "DOGE",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "/images/tokens/DOGE.png"
+    },
+    {
+      "address": "0x75E8C56f86cF6260Da42b97db3D8f0c876190fd0",
+      "chainId": 20212,
+      "name": "DOT",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "/images/tokens/DOT.jpg"
+    },
+    {
+      "address": "0x8d18B4Bf2e3E9f9DA8Fe0411962B4b162ccd31b8",
+      "chainId": 20212,
+      "name": "COMP",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZCOMP.png"
+    },
+    {
+      "address": "0x95686715e35149AC3D754b0F2CCBAdc579476a0A",
+      "chainId": 20212,
+      "name": "YFI",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ZYFI.png"
+    },
+    {
+      "address": "0x72bd1E2cdea74F02aD5225F87C3691c35d655148",
+      "chainId": 20212,
+      "name": "ASM",
+      "symbol": "ASM",
+      "decimals": 18,
+      "logoURI": "/images/tokens/ASM.png"
+    },
+    {
+      "address": "0x77847850D2E773090A24deBe4E18C57ADA6C12b8",
+      "chainId": 20212,
+      "name": "HUB",
+      "symbol": "HUB",
+      "decimals": 18,
+      "logoURI": "/images/tokens/HUB.png"
+    },
+    {
+      "address": "0x7dd9fEd1ff289f108DE3b2F5d60ca0E4c4727388",
+      "chainId": 20212,
+      "name": "ZBED",
+      "symbol": "ZBED",
+      "decimals": 18,
+      "logoURI": "/images/tokens/BED.png"
+    },
+    {
+      "address": "0x63100fd0cd064decE9D118b00045482Ad24334a4",
+      "chainId": 20212,
+      "name": "ZWTB",
+      "symbol": "ZWTB",
+      "decimals": 18,
+      "logoURI": "/images/tokens/WTB.png"
+    },
+    {
+      "address": "0xd9859c49bc2739dae77354a640e4013bf67dafcb",
+      "chainId": 20212,
+      "name": "PEAR",
+      "symbol": "PEAR",
+      "decimals": 18,
+      "logoURI": "/images/tokens/PEAR.jpg"
+    },
+    {
+      "address": "0x9965e9655cDBAfBefb5dACF424fdC9E6464CE20d",
+      "chainId": 20212,
+      "name": "SHEEP",
+      "symbol": "SHEEP",
+      "decimals": 9,
+      "logoURI": "/images/tokens/sheep.jpg"
+    }
+  ]
+}
